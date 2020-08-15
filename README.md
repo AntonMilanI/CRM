@@ -1,1 +1,1 @@
-# CRM - A complete CRM sample project with Add, Update, Delete along with search features using XML/Annotations-Spring+Hibernate
+# CRM - A complete CRM sample project with Add, Update, Delete and search features with Spring+Hibernate using XML configurations and Annotations.
